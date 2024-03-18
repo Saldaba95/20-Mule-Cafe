@@ -1,0 +1,12 @@
+body {
+  background: black;
+}
+.container {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(251, 221, 19, 0.9) 0.1%,
+    rgb(255, 153, 1, 0.7) 90%
+  );
+  padding: 100px auto;
+  margin: 90px auto;
+}
