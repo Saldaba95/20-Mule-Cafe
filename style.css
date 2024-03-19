@@ -1,3 +1,6 @@
+:root {
+}
+
 body {
   background: black;
 }
@@ -9,4 +12,7 @@ body {
   );
   padding: 100px auto;
   margin: 75px auto;
+}
+button {
+  margin: 50px auto;
 }
