@@ -10,14 +10,31 @@
 body {
   background: ;
 }
-.container {
-  background: ;
+.home-page-index {
+  background-image: url(https://th.bing.com/th/id/OIP.ng0C15WvoadowGLtkJyMhwHaHa?rs=1&pid=ImgDetMain);
+  background-position: center;
+  background-size: cover;
+}
+.home-index {
+  background: lightsalmon;
+  opacity: 0.9;
   padding: 100px auto;
   margin: 75px auto;
+  text-align: center;
+}
+.week {
+  background: orangered;
 }
 .col-sm-6 {
   opacity: 0.9;
 }
-button {
+.call-cafe {
+  font-size: 30px;
   margin: 50px auto;
+  border-radius: 9px;
+  text-decoration: none;
+  color: black;
+}
+.breakfast-page {
+  text-align: center;
 }
