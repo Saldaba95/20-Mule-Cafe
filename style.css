@@ -13,21 +13,31 @@
   background-size: cover;
 }
 .home-index {
-  background: lightsalmon;
+  background: black;
+  color: #f96d00;
   opacity: 0.9;
   padding: 100px auto;
   margin: 75px auto;
   text-align: center;
 }
-.week {
-  background: orangered;
+.menu-weekly-specials {
+  background: black;
 }
+.week {
+  background: linear-gradient(
+    89.9deg,
+    rgb(255, 18, 18) -2.8%,
+    rgb(252, 246, 19) 50.8%,
+    rgb(0, 159, 8) 107.9%
+  );
+  opacity: 0.8;
+}
+
 .col-sm-6 {
   opacity: 0.9;
 }
 
 .weekly-specials {
-  background: black;
   color: aliceblue;
   padding: 35 px auto;
   margin: 50px auto;
