@@ -7,9 +7,6 @@
   );
 }
 
-body {
-  background: ;
-}
 .home-page-index {
   background-image: url(https://th.bing.com/th/id/OIP.ng0C15WvoadowGLtkJyMhwHaHa?rs=1&pid=ImgDetMain);
   background-position: center;
@@ -28,13 +25,14 @@ body {
 .col-sm-6 {
   opacity: 0.9;
 }
-.call-cafe {
-  font-size: 30px;
+
+.weekly-specials {
+  background: black;
+  color: aliceblue;
+  padding: 35 px auto;
   margin: 50px auto;
-  border-radius: 9px;
-  text-decoration: none;
-  color: black;
 }
+
 .breakfast-page {
   text-align: center;
 }
