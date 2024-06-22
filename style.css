@@ -9,30 +9,32 @@
 
 .home-page-index {
   background-image: url(https://th.bing.com/th/id/OIP.ng0C15WvoadowGLtkJyMhwHaHa?rs=1&pid=ImgDetMain);
-  background-position: center;
-  background-size: cover;
+  background-size: 110%;
 }
 .home-index {
   background: black;
   color: #f96d00;
-  opacity: 0.9;
+  opacity: 0.7;
   padding: 100px auto;
   margin: 75px auto;
   text-align: center;
 }
 .menu-weekly-specials {
   background: black;
+  color: aliceblue;
 }
-.week {
-  background: linear-gradient(
-    89.9deg,
-    rgb(255, 18, 18) -2.8%,
-    rgb(252, 246, 19) 50.8%,
-    rgb(0, 159, 8) 107.9%
-  );
-  opacity: 0.8;
+.breakfast-page {
+  background: black;
+  color: aliceblue;
 }
-
+.lunch-page {
+  background: black;
+  color: aliceblue;
+}
+.dinner-page {
+  background: black;
+  color: aliceblue;
+}
 .col-sm-6 {
   opacity: 0.9;
 }
@@ -43,6 +45,8 @@
   margin: 50px auto;
 }
 
-.breakfast-page {
+.breakfast-page,
+.lunch-page,
+.dinner-page {
   text-align: center;
 }
